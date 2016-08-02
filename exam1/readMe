@@ -1,0 +1,2 @@
+1.直接运行即可得到.pgf文件。
+mvn clean compile exec:java -Dexec.mainClass="com.hand.demo" -Dexec.args="arg0 arg1 arg2"
